@@ -1,5 +1,8 @@
 # GTA Radio Project Readme
 
+
+![alt text](https://github.com/SebC750/GTARadio/blob/main/frontend/GTA_Radio%20copy.png?raw=true)
+
 ## Introduction
 Welcome to the GTA Radio Project! This project aims to replicate the in-game radio experience from the popular video game series Grand Theft Auto (GTA). It allows fans to immerse themselves in the GTA universe by listening to the game's iconic licensed soundtracks, categorized by their corresponding games and radio stations. Additionally, it features radio hosts with their dialogues, as well as typical GTA-style commercials. Our goal is to bring a slice of the GTA universe to listeners wherever they go.
 
