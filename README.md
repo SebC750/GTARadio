@@ -1,4 +1,4 @@
-# GTA Radio Project Readme
+# GTA Radio Project
 
 
 ![alt text](https://github.com/SebC750/GTARadio/blob/main/frontend/GTA_Radio%20copy.png?raw=true)
