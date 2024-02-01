@@ -1,7 +1,11 @@
 .title-container{
-    background-color:greenyellow;
+    background-color:white;
     padding:20px;
 }
 .description-container{
-    background-color: lightseagreen;
+    background-color: black;
+}
+img {
+    max-width: 50%;
+    max-height: 50%;
 }
