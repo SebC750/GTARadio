@@ -1,11 +1,38 @@
 .title-container{
     background-color:white;
     padding:20px;
+    
 }
 .description-container{
     background-color: black;
+    padding: 20px;
 }
-img {
-    max-width: 50%;
-    max-height: 50%;
+#selection_screen{
+    padding: 100px;
+    
+}
+carousel-item{
+    width: 500px;
+    height: 500px;
+}
+#gta_logo{
+   height: 200px !important;
+   width: 350px !important;
+}
+.GTA_Title{
+    color:white;
+}
+.desc_text{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.dot{
+    height: 5px;
+    width: 5px;
+}
+.online_text{
+    color: white;
+}
+.radio_logo
+{
+    height: 100px;
 }
