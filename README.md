@@ -33,5 +33,13 @@ Contributions to the GTA Radio Project are welcome! Whether you're a developer, 
 Stay tuned for updates and enjoy the nostalgic journey through the soundtracks of the GTA universe!
 
 ---
+## Tech stack
 
+### Frontend
+- TypeScript
+- React Native
+
+### Backend
+- Node.js express
+- MongoDB
 *This readme is subject to updates as the project progresses.*
