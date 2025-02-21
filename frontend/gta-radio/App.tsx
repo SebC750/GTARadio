@@ -1,11 +1,13 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
-
+import { StyleSheet, Text, View, Image } from 'react-native';
+//import logo from "./assets/GTA_Radio copy.png"
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app! Hello world!</Text>
-      <StatusBar style="auto" />
+      <Image 
+      source={require('./assets/GTA_Radio copy.png')}
+      style={styles.logo}/>
+      <Text> Log in </Text>
     </View>
   );
 }
@@ -13,8 +15,12 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: '#E48424',
     alignItems: 'center',
     justifyContent: 'center',
   },
+  logo: {
+    height: 100,
+    width: 100
+  }
 });
